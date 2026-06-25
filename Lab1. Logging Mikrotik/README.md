@@ -2,6 +2,9 @@
 
 <img width="817" height="422" alt="image" src="https://github.com/user-attachments/assets/b24835fe-460a-463f-9c41-82d11c6c33dd" />
 
+<br>
+<br>
+<br>
 
  Assalamualikum Wr. Wb.
  Di sini saya akan membagikan cara-cara untuk meremote/logging ke mikrotik, ada banyak caranya & perhatikan juga dengan port-portnya. sebelum itu hubungkan mikrotik dengan kabel misalnya kabel Rj45, seperti di topologi atas
@@ -30,6 +33,10 @@
  Ini adalah tampilan dari winbox
  
  Mudah bukan?
+
+ <br>
+ <br>
+ <br>
  
 
 
