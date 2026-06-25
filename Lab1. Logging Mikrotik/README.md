@@ -44,18 +44,30 @@
    <img width="86" height="127" alt="image" src="https://github.com/user-attachments/assets/2c78c6fb-8b8b-4614-9f19-85cde80b6a51" />
 
 webfig berada di **port 80 TCP** dan bisa di akses menggunakan browser, saya contohkan dengan chrome
+
 NOTE: Pastikan mikrotik berada di default configuration
 
    a.	Buka chrome
-   <img width="86" height="127" alt="image" src="https://github.com/user-attachments/assets/544e8cb4-5f5b-4064-9880-c02df824f35a" />
-
+   
    b.	Pada pencarian ketikan 192.168.88.1 (ip default mikrotik)
+
+   <img width="561" height="257" alt="WhatsApp Image 2026-06-25 at 20 26 20" src="https://github.com/user-attachments/assets/94b662ec-2fbf-40b3-bdc7-c30fdf1a8e5b" />
+
+   
    c.	Login: admin
+   
       Password: (kosong)
+
+<img width="414" height="496" alt="WhatsApp Image 2026-06-25 at 20 26 20 (1)" src="https://github.com/user-attachments/assets/de3216d4-e242-4637-a6f2-8dd740056e50" />
+
+      
 d.	Klik Login atau Tekan Enter
  
 
-e.	Setelah berhasil login, maka akan muncul tampilan mikrotik dalam mode GUI pada web browser
+e.	Masuk pada tampilan GUI versi WebFig
+
+<img width="1600" height="899" alt="WhatsApp Image 2026-06-25 at 20 26 21" src="https://github.com/user-attachments/assets/d97caa9a-2911-49b5-9d4f-20c89c1daf6c" />
+
  
 
 
