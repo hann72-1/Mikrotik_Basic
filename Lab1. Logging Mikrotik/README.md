@@ -69,17 +69,25 @@ NOTE: Pastikan mikrotik berada di default configuration
 
 <img width="1600" height="899" alt="WhatsApp Image 2026-06-25 at 20 26 21" src="https://github.com/user-attachments/assets/d97caa9a-2911-49b5-9d4f-20c89c1daf6c" />
 
+Mudah Bukan?
+
+
  
 <br>
 <br>
 <br>
 
 3.	Telnet/SSH
+
    Ini berada di **port**
-  	**-Telnet (23 TCP)**
-  	   protokol lama yang sudah lama, jarangan digunakan karena alasan keamanannya yang kurang
-  	**-SSH (22 TCP)**
-  	   Yang paling di sarankan karna keamanannya lebih aman dibandingkan telnet
+  	
+   **Telnet (23 TCP)**
+   
+   protokol lama yang sudah lama, jarangan digunakan karena alasan keamanannya yang kurang
+   
+   **SSH (22 TCP)**
+   
+   Yang paling di sarankan karna keamanannya lebih aman dibandingkan telnet
 
    a.	Buka putty
 <img width="95" height="116" alt="image" src="https://github.com/user-attachments/assets/9f6a27f5-cf48-4302-9b74-2f1e82eb063c" />
