@@ -58,18 +58,21 @@ NOTE: Pastikan mikrotik berada di default configuration
    
       Password: (kosong)
 
+
+   d.	Klik Login atau Tekan Enter
+ 
 <img width="414" height="496" alt="WhatsApp Image 2026-06-25 at 20 26 20 (1)" src="https://github.com/user-attachments/assets/de3216d4-e242-4637-a6f2-8dd740056e50" />
 
-      
-d.	Klik Login atau Tekan Enter
- 
+       
 
-e.	Masuk pada tampilan GUI versi WebFig
+   e.	Masuk pada tampilan GUI versi WebFig
 
 <img width="1600" height="899" alt="WhatsApp Image 2026-06-25 at 20 26 21" src="https://github.com/user-attachments/assets/d97caa9a-2911-49b5-9d4f-20c89c1daf6c" />
 
  
-
+<br>
+<br>
+<br>
 
 3.	Telnet/SSH
    Ini berada di **port**
