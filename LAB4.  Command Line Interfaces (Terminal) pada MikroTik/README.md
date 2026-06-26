@@ -66,17 +66,17 @@ Tips:
       <img width="535" height="37" alt="Screenshot 2026-06-26 141534" src="https://github.com/user-attachments/assets/b5a67334-e05c-41cb-b9dc-077494c7f4b6" />
 
 
-  <h2> Cara cek IP Address</h2>
+    <h2> Cara cek IP Address</h2>
 
-  cek ip yang sudah kita tambahkan tadi
+    cek ip yang sudah kita tambahkan tadi
 
-  1. ketikan /ip address/print
+    1. ketikan /ip address/print
 
-  2. Klik (enter)
+    2. Klik (enter)
 
      <img width="288" height="39" alt="Screenshot 2026-06-26 141757" src="https://github.com/user-attachments/assets/1306de0c-0057-450f-a1f6-94bb3ae4b18a" />
 
-  3. Tanda kalau sukses tidak adanya tulisan invalid seperti ini:
+    3. Tanda kalau sukses tidak adanya tulisan invalid seperti ini:
 
      <img width="325" height="96" alt="Screenshot 2026-06-26 141812" src="https://github.com/user-attachments/assets/9ca59325-b4ee-4e9a-a676-483f69744d3d" />
 
