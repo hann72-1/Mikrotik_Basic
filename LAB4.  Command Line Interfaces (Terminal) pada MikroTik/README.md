@@ -54,7 +54,7 @@ Tips:
 
    menambahkan ip: 192.168.10.1/24 di interface:ether 1
 
-   1. ketikan /ip address add address=192.168.10.1/24 interface=ether1
+   1. ketikan /ip/address add address=192.168.10.1/24 interface=ether1
   
    2. Klik (enter)
   
@@ -70,7 +70,7 @@ Tips:
 
     cek ip yang sudah kita tambahkan tadi
 
-    1. ketikan /ip address/print
+    1. ketikan /ip/address/print
 
     2. Klik (enter)
 
@@ -79,6 +79,23 @@ Tips:
     3. Tanda kalau sukses tidak adanya tulisan invalid seperti ini:
 
      <img width="325" height="96" alt="Screenshot 2026-06-26 141812" src="https://github.com/user-attachments/assets/9ca59325-b4ee-4e9a-a676-483f69744d3d" />
+
+     <h2> Cara Menganti Identity </h2>
+
+     1. Ketikan /system/identity/set name=nama-teman-teman
+  
+     2. Klik (enter)
+  
+        <img width="388" height="39" alt="Screenshot 2026-06-26 143424" src="https://github.com/user-attachments/assets/1aabcdf4-9e0d-4a95-9ba2-fd8bc7e04c21" />
+     
+     3. Tanda kalau sukses rubahnya mikrotik menjadi nama teman-teman:
+  
+        <img width="384" height="50" alt="Screenshot 2026-06-26 143445" src="https://github.com/user-attachments/assets/7162f4c8-42f8-4657-968a-37329dbce307" />
+
+   <h2> Cara Menambahkan paswword pada user admin </h2>
+
+  
+        
 
      
 
