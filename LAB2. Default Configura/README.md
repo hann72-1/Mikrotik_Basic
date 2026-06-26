@@ -142,7 +142,9 @@ Biasanya device seperti itu berada di blank configuartion (konfig kosongan)
 
    <hr>
 
-   Kesimpulan: Default Configuration adalah cara paling mudah agar mikrotik dapat digunakan untuk client sampai client bisa menikmati internet.  
+   Kesimpulan: Default Configuration adalah cara paling mudah agar mikrotik dapat digunakan untuk client sampai client bisa menikmati internet.
+
+   Akhir Kata Assalamualikum Wr. Wb
 
 
 
