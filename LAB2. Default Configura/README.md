@@ -64,9 +64,21 @@ Biasanya device seperti itu berada di blank configuartion (konfig kosongan)
 
    a. R (running)
 
-   B. S (slave)
+   b. S (slave)
 
-   ini berarti interface tersebut tidak berdiri sendiri,melainkan sudah menyatu di 1 bridge, perhatikan kembali flag s ini berada ether 2-5, dan wlan. Itu berarti port tersebut dalam 1 bridge yang sama. Dan juga interface yang berstatus slave tidak dapat di beri ip terpisah 
+   ini berarti interface tersebut tidak berdiri sendiri,melainkan sudah menyatu di 1 bridge, perhatikan kembali flag s ini berada ether 2-5, dan wlan. Itu berarti port tersebut dalam 1 bridge yang sama. Dan juga interface yang berstatus slave tidak dapat di beri ip terpisah
+
+2. Bridge
+
+   <img width="367" height="92" alt="bridge" src="https://github.com/user-attachments/assets/cfa0cee9-d27c-44d6-839b-0d6d5854eeef" />
+
+   Coba Teman-teman cek bagian bridge, kita memiliki 1 bridge yang bernama "bridge", coba teman-teman cek bagian bridge port.
+
+   <img width="375" height="199" alt="bridge port" src="https://github.com/user-attachments/assets/a41f556f-1d66-406e-b9ed-407606de36c5" />
+
+   seperti yang saya katakan tadi "bridge" berisikan ether 2-5 dan wlan. Jadi mereka tu seperti di satu jalur yang sama.
+
+
 
 
    
