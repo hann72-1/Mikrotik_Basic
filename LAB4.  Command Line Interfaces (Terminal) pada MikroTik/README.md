@@ -48,6 +48,21 @@ Tips:
 
 4. Masukan User & Password
 
-5. 
- 
+5. Selamat masuk tampilan CLI
+
+   <h2> Cara menambahkan IP </h2>
+
+   menambahkan ip: 192.168.10.1/24 di interface:ether 1
+
+   1. ketikan /ip address add address=192.168.10.1/24 interface=ether1
+  
+   2. Klik (enter)
+  
+      <img width="541" height="58" alt="Screenshot 2026-06-26 141427" src="https://github.com/user-attachments/assets/9b395d6c-72a0-46b7-a8d4-30d154ae1d2f" />
+
+  
+   3. Tanda kalau sukses tidak adanya tulisan invalid seperti ini:
+  
+      <img width="535" height="37" alt="Screenshot 2026-06-26 141534" src="https://github.com/user-attachments/assets/b5a67334-e05c-41cb-b9dc-077494c7f4b6" />
+
 
