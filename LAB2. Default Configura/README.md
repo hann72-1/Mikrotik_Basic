@@ -49,6 +49,25 @@ Biasanya device seperti itu berada di blank configuartion (konfig kosongan)
 
 6. Setelah Mikrotik menyala kembali mikrotik dalam keadaan default configuration 
 
+<br>
+<br>
+
+<h1> Isi dari default configuration </h1>
+
+1. Interface
+
+   <img width="671" height="374" alt="interface" src="https://github.com/user-attachments/assets/dd23bb74-33e4-4bff-bfbb-0d15aa34358a" />
+
+   Coba teman-teman cek interface masing-masing, device saya ada 5 port dan 1 WLAN. Coba perhatikan flag di kiri setiap interface
+
+   Flag Setiap Interface
+
+   a. R (running)
+
+   B. S (slave)
+
+   ini berarti interface tersebut tidak berdiri sendiri,melainkan sudah menyatu di 1 bridge, perhatikan kembali flag s ini berada ether 2-5, dan wlan. Itu berarti port tersebut dalam 1 bridge yang sama. Dan juga interface yang berstatus slave tidak dapat di beri ip terpisah 
+
 
    
 
