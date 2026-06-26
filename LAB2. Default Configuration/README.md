@@ -144,7 +144,9 @@ Biasanya device seperti itu berada di blank configuartion (konfig kosongan)
 
    Kesimpulan: Default Configuration adalah cara paling mudah agar mikrotik dapat digunakan untuk client sampai client bisa menikmati internet.
 
-   Akhir Kata Assalamualikum Wr. Wb
+   Akhir Kata
+
+   Wassalamualikum Wr. Wb
 
 
 
