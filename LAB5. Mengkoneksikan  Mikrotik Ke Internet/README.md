@@ -158,7 +158,8 @@ Sebelum mencoba topologi di atas, saya harap teman-teman reset konfigurasi mikro
 
    -Masuk ke Ip >> Firewall >> NAT, klik (+) chain:srcnat out-interfacenya:ether2
 
-   <img width="426" height="349" alt="Screenshot 2026-06-27 093145" src="https://github.com/user-attachments/assets/86da3c84-f69c-41c5-af59-ecd9750a64f8" />
+   <img width="513" height="329" alt="Screenshot 2026-06-27 112536" src="https://github.com/user-attachments/assets/54b102f0-1e3d-41df-b9f1-6c2e67da8ee4" />
+
 
    -Masuk bagian action:masquerade lalu aplly, Ok
 
