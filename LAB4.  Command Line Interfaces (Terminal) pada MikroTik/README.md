@@ -14,7 +14,7 @@ Struktur perintah (command) pada CLI mirip dengan sistem direktori menu pada Win
 
 -Contoh: Cara menambahkan IP
 
-/ip address add address=192.168.10.1/24 interface=ether22
+/ip address add address=192.168.10.1/24 interface=ether2
 
 /ip >> adalah (folder utama), address >> adalah (folder di dalam folder utama), add >> command menambahkan rule
 
@@ -174,7 +174,7 @@ Tips:
         <img width="505" height="368" alt="Screenshot 2026-06-26 151849" src="https://github.com/user-attachments/assets/c7a4bbf2-b2c0-4626-aef4-ab67894095f8" />
 
 
-     <h2> Fungsi Doble [TAB] </h2>
+     <h2> Fungsi Double [TAB] </h2>
 
      <img width="549" height="290" alt="Screenshot 2026-06-26 152130" src="https://github.com/user-attachments/assets/fe5f5574-a3af-4a3f-a8a5-79e488c5590a" />
 
